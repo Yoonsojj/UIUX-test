@@ -1,4 +1,4 @@
 def hello():
-    print("Hello, sojung")
+    print("1+2=3")
 
 hello()
